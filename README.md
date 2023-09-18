@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Data Analyst | Teacher
 ---------------------------------------
 
-I am a teacher turned, data scientist. I bridge the gap between educational leadership and data-driven expertise. Skilled in analyzing complex datasets, I excel at driving transformative change through evidence-based decision-making. Let's connect to propel your organization toward measurable success.
+I am a dedicated educator and data scientist, passionate about leveraging big data to solve real-world challenges and drive valuable insights for informed decision-making. I am enthusiastic about collaborating on innovative and data-centric projects, aiming to achieve meaningful outcomes through utilizing data-driven strategies to catalyze transformation.
 
 * 🌍  I'm based in NYC, New York/ Chandler, AZ
 * 🚀  I'm currently working on a Time Series Analysis Portfolio Optimization Project
