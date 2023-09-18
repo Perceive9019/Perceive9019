@@ -7,11 +7,11 @@ Data Scientist | Data Analyst | Teacher
 I am a dedicated educator and data scientist, passionate about leveraging big data to solve real-world challenges and drive valuable insights for informed decision-making. I am enthusiastic about collaborating on innovative and data-centric projects, aiming to achieve meaningful outcomes through utilizing data-driven strategies to catalyze transformation.
 
 * 🌍  I'm based in NYC, New York/ Chandler, AZ
-* 🚀  I'm currently working on a Time Series Analysis Project: Portfolio Optimization For Retail Investors
+* 🚀   I'm currently working on a Time Series Analysis Project: Portfolio Optimization For Retail Investors
 * 🧠  I'm learning Hadoop Ecosystem, Spark & Pyspark, and NLP
-* 🖥️  For portfolio, check out my GitHub page
+* 🖥️   For portfolio, check out my GitHub page
 * 🤝  I'm open to collaborating on Time Series Analysis
-* 🙂  Pronouns: he/him
+* 🙂   Pronouns: he/him
 * ⚡   Hobbies: I love skydiving, the outdoors, and dogs
 
 ### Skills
