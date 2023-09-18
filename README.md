@@ -7,12 +7,12 @@ Data Scientist | Data Analyst | Teacher
 I am a teacher turned, data scientist. I bridge the gap between educational leadership and data-driven expertise. Skilled in analyzing complex datasets, I excel at driving transformative change through evidence-based decision-making. Let's connect to propel your organization toward measurable success.
 
 * 🌍  I'm based in NYC, New York/ Chandler, AZ
-* 🚀  I'm currently working on a price prediction model for Airbnb listings
-* 🧠  I'm learning K-Means Clustering
+* 🚀  I'm currently working on a Time Series Analysis Portfolio Optimization Project
+* 🧠  I'm learning Hadoop Ecosystem, Spark & Pyspark and NLP
 * 🖥️  For portfolio, check out my GitHub page
 * 🤝  I'm open to collaborating on Time Series Analysis
 * 🙂  Pronouns: he/him
-* ⚡   Hobbies: I love skydiving, the outdoors, and dogs.
+* ⚡   Hobbies: I love skydiving, the outdoors, and dogs
 
 ### Skills
 
